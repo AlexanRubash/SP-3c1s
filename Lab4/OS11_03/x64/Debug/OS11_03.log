@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl ht::Element::Element(void const *,int)" (??0Element@ht@@QEAA@PEBXH@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ removeOne в функции main.
+..\debug\OS11_HTAPI.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\Univer\SP\Lab4\x64\Debug\OS11_03.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

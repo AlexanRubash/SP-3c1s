@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ create в функции main.
+..\debug\OS11_HTAPI.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\Univer\SP\Lab4\x64\Debug\OS11_CREATE.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
